@@ -1,0 +1,17 @@
+.grid-cell {
+  border: 1px solid #eee;
+  box-shadow: 1px 5px 5px #eee;
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 20px 0;
+}
+
+.grid-header {
+  margin: 0 2rem;
+  font-size: large;
+  font-weight: 700;
+}
+
+.App {
+  padding: 10px;
+}
